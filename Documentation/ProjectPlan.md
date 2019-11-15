@@ -18,7 +18,9 @@ What is the estimated business or monetary value?
 ## Stakeholders
 Describe all stakeholders involved in your use case.
 
-Who are the users? Who are the buyers and decision-makers? 
+Who are the users? What can you do to help them trust you/your solution?
+
+Who are the buyers and decision-makers? 
 
 Are there saboteurs? Are there influencers and recommenders?
 
@@ -61,7 +63,7 @@ Explain what the metrics mean: what does a false positive translate to? False ne
 
 Why are we using F1 score instead of accuracy? What loss function are we using and why.
 
-### Data Model
+### Data
 Input
 Results or Output
 
@@ -85,6 +87,8 @@ What automated process will be checking for algorithm issues? Are we testing for
 ### Implementation Schedule
 
 ## Appendix
-Appendix A: Data Science Materials
-Appendix B: References
-Appendix C: 
+### Appendix A: Data Science Materials
+
+### Appendix B: References
+
+### Appendix C: 
