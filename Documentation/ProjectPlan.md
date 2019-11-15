@@ -2,6 +2,8 @@
 
 <!--TOC max2-->
 
+## Introduction/Motivation
+What/why are we looking into this problem. This is a good place to provide context when appropriate.
 
 ## Problem Statement
 State the business problem statement 
