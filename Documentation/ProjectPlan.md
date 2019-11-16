@@ -5,10 +5,10 @@
 ## Introduction/Motivation
 What/why are we looking into this problem. This is a good place to provide context when appropriate.
 
-## Problem Statement
+### Problem Statement
 State the business problem statement 
 
-## Value Proposition
+### Value Proposition
 Describe the value proposition of the use case.
 
 What value are we delivering to our user/customer/organization?
@@ -17,8 +17,8 @@ Who is our customer? What are their pains and gains?
 
 What is the estimated business or monetary value?
 
-## Stakeholders
-Describe all stakeholders involved in your use case.
+### Stakeholders
+Describe all stakeholders involved in your use case. Business and Technical
 
 Who are the users? What can you do to help them trust you/your solution?
 
@@ -26,7 +26,17 @@ Who are the buyers and decision-makers? 
 
 Are there saboteurs? Are there influencers and recommenders?
 
-## Model Usage
+### Risks
+Describe what could go wrong. Are their policy hurdles?
+
+What roadblocks could we face? 
+
+## System Overview
+What is the big picture of the solution? What architecture components does it touch? What teams could be effected?
+
+### System Description
+
+### Model Usage
 Describe how the model output is going to be used.
 
 Is it used to automates a decision or process? Or is used for decision support?
@@ -35,13 +45,10 @@ Is there human supervision?
 
 What happens if the model makes a mistake?
 
-## Risks
-Describe what could go wrong. Are their policy hurdles?
-
-What roadblocks could we face? 
+### System Assumptions and Constraints
 
 ## Data Science Methodology
-Problem Statement
+### Problem Statement
 Translate the business problem statement into a data science problem statement. Describe the input and output of the machine learning model.
 
 What kind of problem are we trying to solve (classification, regression, optimization, generative, planning, translation)?
@@ -68,6 +75,12 @@ Why are we using F1 score instead of accuracy? What loss function are we using a
 ### Data
 Input
 Results or Output
+
+## Reporting
+
+### Internal
+
+### External
 
 ### Research
 #### Papers
